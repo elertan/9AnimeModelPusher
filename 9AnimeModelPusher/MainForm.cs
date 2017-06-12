@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace _9AnimeModelPusher
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
